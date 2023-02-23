@@ -2,6 +2,7 @@ Information collected by Google Services and AdMob:
 Device identification information, such as model, operating system, and app version.
 Usage information, such as frequency of app access and utilized features.
 Information about displayed ads, such as the number of times an ad was displayed and the number of clicks.
+Or others information that Google Services and AdMob collect.
 
 How the information is used:
 The information collected by Google Services and AdMob is used to display personalized ads to users and improve the efficiency of displayed ads.
