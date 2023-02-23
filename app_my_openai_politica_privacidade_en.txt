@@ -1,0 +1,18 @@
+Information collected by Google Services and AdMob:
+Device identification information, such as model, operating system, and app version.
+Usage information, such as frequency of app access and utilized features.
+Information about displayed ads, such as the number of times an ad was displayed and the number of clicks.
+
+How the information is used:
+The information collected by Google Services and AdMob is used to display personalized ads to users and improve the efficiency of displayed ads.
+The information may also be shared with third parties, such as data analytics companies, for research and analysis purposes.
+
+Use of OpenAI services:
+The app uses OpenAI services to provide certain functionalities to users.
+OpenAI may collect information related to the usage of these services to improve the quality of the service provided.
+
+How the information is stored:
+The collected information is stored on secure servers and protected by appropriate security measures.
+
+How users can manage their information:
+Users do not provide personal information directly to the app but can manage their ad preferences in their device settings.
