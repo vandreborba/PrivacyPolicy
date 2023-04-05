@@ -14,3 +14,5 @@ Como as informações são armazenadas:
 As informações coletadas são armazenadas em servidores seguros e protegidas por medidas de segurança adequadas.
 Como os usuários podem gerenciar suas informações:
 Os usuários não fornecem informações pessoais diretamente para o aplicativo, mas podem gerenciar suas preferências de anúncios em suas configurações do dispositivo.
+
+O aplicativo utiliza o Firebase Analytics, um serviço de análise fornecido pelo Google, para coletar informações sobre como os usuários utilizam o aplicativo. As informações coletadas incluem informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo, bem como informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas. Também podemos coletar informações sobre anúncios exibidos, como o número de vezes que um anúncio foi exibido e o número de cliques. Essas informações são utilizadas para exibir anúncios personalizados aos usuários e melhorar a eficiência dos anúncios exibidos. As informações também podem ser compartilhadas com terceiros, como empresas de análise de dados, para fins de pesquisa e análise.
