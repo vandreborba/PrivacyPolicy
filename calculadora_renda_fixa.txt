@@ -1,4 +1,6 @@
-Informações coletadas pelo Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play:
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Calculadora Renda Fixa e Investimentos, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta.
+
+Informações coletadas pelo aplicativo atrás de terceiros: Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play:
 - Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
 - Informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas.
 - Informações sobre anúncios exibidos, como o número de vezes que um anúncio foi exibido e o número de cliques.
