@@ -4,6 +4,7 @@ A presente Política de Privacidade contém informações sobre coleta, uso, arm
 
 Informações gerais sobre a coleta de dados por este app:
 - Não é coletado nenhum dado pessoal pelo desenvolvedor de modo que este possa identificar o usuário pessoalmente de alguma forma.
+- Todos as simulações realizadas ficam salvas apenas localmente no celular, de forma que não é enviado nenhum dado da simulação para servidores em nuvem.
 
 Este app coleta uma série dados através de recursos de terceiros (Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play):
 - Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
@@ -25,6 +26,7 @@ This Privacy Policy contains information about the collection, use, storage, pro
 
 General information about data collection by this app:
 - No personal data is collected by the developer in a way that could personally identify the user.
+- All simulations performed are saved locally on the device, so no simulation data is sent to cloud servers.
 
 This app collects several types of data through third-party resources (Google Services, AdMob, Firebase Analytics, Revenue Cat, and Google Play Store):
 - Device identification information such as model, operating system version.
