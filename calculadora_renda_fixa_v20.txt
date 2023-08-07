@@ -36,6 +36,6 @@ This app collects several types of data through third-party resources (Google Se
 
 How collected information is used:
 - The information gathered by Google Services and AdMob is used to display personalized advertisements to users and improve ad efficiency.
-- Statistical usage information is used by the developer of Fixed Income Calculator for better understanding which functions are most utilized in order to implement improvements in future updates.
+- Statistical usage information is used by the developer of Calculadora Renda Fixa e Investimentos for better understanding which functions are most utilized in order to implement improvements in future updates.
 - Information obtained through GooglePlay Store or RevenueCat may be used for in-app purchases (if available on your platform).
 - Google may also utilize collected information according to its own defined terms.
