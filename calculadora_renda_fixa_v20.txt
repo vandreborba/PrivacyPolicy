@@ -1,0 +1,39 @@
+Política de Privicidade do aplicativo: Calculadora Renda Fixa
+
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Calculadora Renda Fixa e Investimentos, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta.
+
+Informações gerais sobre a coleta de dados por este app:
+- Não é coletado nenhum dado pessoal pelo desenvolvedor de modo que este possa identificar o usuário pessoalmente de alguma forma.
+
+Este app coleta uma série dados através de recursos de terceiros (Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play):
+- Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
+- Informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas.
+- Informações sobre anúncios exibidos, como o número de vezes que um anúncio foi exibido e o número de cliques.
+- Consulte a política de privacidade destas empresas para maiores informações.
+
+Como as informações são utilizadas:
+- As informações coletadas pelo Google Services e AdMob são utilizadas para exibir anúncios personalizados aos usuários e melhorar a eficiência dos anúncios exibidos.
+- As informações estatítiscas sobre o uso do app são usadas para o desenvolvedor do Calculadora Renda Fixa e Investimentos entender as funções mais utilizadas e implementar melhorias no app.
+- As informações colhidas pelo GooglePlay e RevenueCat são usadas para compras no app (se disponível na plataforma utilizada).
+- O google também pode utilizar as informações coletadas de forma definida pela empresa.
+
+---- English ----
+
+  Privacy Policy of the application: Calculadora Renda Fixa
+
+This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data from users and visitors of the Calculadora Renda Fixa application developed by VandreApps. It aims to demonstrate absolute transparency on the subject and clarify to all interested parties about the types of data that are collected and the reasons for collection.
+
+General information about data collection by this app:
+- No personal data is collected by the developer in a way that could personally identify the user.
+
+This app collects several types of data through third-party resources (Google Services, AdMob, Firebase Analytics, Revenue Cat, and Google Play Store):
+- Device identification information such as model, operating system version.
+- Usage information such as frequency of access to the application and utilized features.
+- Information regarding displayed advertisements such as ad impressions count and click count.
+- Please consult these companies' privacy policies for more detailed information.
+
+How collected information is used:
+- The information gathered by Google Services and AdMob is used to display personalized advertisements to users and improve ad efficiency.
+- Statistical usage information is used by the developer of Fixed Income Calculator for better understanding which functions are most utilized in order to implement improvements in future updates.
+- Information obtained through GooglePlay Store or RevenueCat may be used for in-app purchases (if available on your platform).
+- Google may also utilize collected information according to its own defined terms.
