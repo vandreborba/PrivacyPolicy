@@ -1,0 +1,41 @@
+Política de Privicidade do aplicativo: Controle de FII
+
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Calculadora Renda Fixa e Investimentos, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta.
+
+Informações gerais sobre a coleta de dados por este app:
+- Não é coletado nenhum dado pessoal pelo desenvolvedor de modo que este possa identificar o usuário pessoalmente de alguma forma.
+- Toda as operações cadastradas, e carteira do usuário ficam salvas apenas localmente no celular, de forma que não é enviado nenhum dado ppara servidores em nuvem.
+
+Este app coleta uma série dados através de recursos de terceiros (Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play):
+- Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
+- Informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas.
+- Informações sobre anúncios exibidos, como o número de vezes que um anúncio foi exibido e o número de cliques.
+- Consulte a política de privacidade destas empresas para maiores informações.
+
+Como as informações são utilizadas:
+- As informações coletadas pelo Google Services e AdMob são utilizadas para exibir anúncios personalizados aos usuários e melhorar a eficiência dos anúncios exibidos.
+- As informações estatítiscas sobre o uso do app são usadas para o desenvolvedor entender as funções mais utilizadas e implementar melhorias no app.
+- As informações colhidas pelo GooglePlay e RevenueCat são usadas para compras no app (se disponível na plataforma utilizada).
+- O google também pode utilizar as informações coletadas de forma definida pela empresa.
+
+---- English ----
+
+Privacy Policy of the app: Controle de FII
+
+This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data from users and visitors of the Fixed Income and Investments Calculator app, developed by VandreApps. The purpose is to demonstrate absolute transparency on the subject and clarify to all interested parties about the types of data that are collected and the reasons for such collection.
+
+General information about data collection by this app:
+- No personal data is collected by the developer in a way that could identify the user personally.
+- All registered operations and user's portfolio are saved locally on the device, so no data is sent to cloud servers.
+
+This app collects a series of data through third-party resources (Google Services, AdMob, Firebase Analytics, RevenueCat, and Google Play Store):
+- Device identification information such as model, operating system version, and application version.
+- Usage information like frequency of access to the application and features used.
+- Information about displayed ads such as number of times an ad was shown or clicked.
+- Please refer to these companies' privacy policies for more details.
+
+How the information is used:
+- The information collected by Google Services and AdMob is used to display personalized ads to users and improve ad efficiency.
+- Statistical information about app usage is used for VandreApps developers to understand which features are most popular among users and implement improvements in-app functionalities.
+- Data gathered by Google Play Store or RevenueCat may be used for in-app purchases (if available on your platform).
+- Google may also use collected information as defined by their company's policies.
