@@ -4,7 +4,8 @@ A presente Política de Privacidade contém informações sobre coleta, uso, arm
 
 Informações gerais sobre a coleta de dados por este app:
 - Não é coletado nenhum dado pessoal pelo desenvolvedor de modo que este possa identificar o usuário pessoalmente de alguma forma.
-- Toda as operações cadastradas, e carteira do usuário ficam salvas apenas localmente no celular, de forma que não é enviado nenhum dado ppara servidores em nuvem.
+- Toda as operações cadastradas, e carteira do usuário ficam salvas apenas localmente no celular, de forma que a carteira não é enviada para a nuvem.
+- Alguns dados estatísticos sobre a carteira pode ser coletados, mas sempre de forma anônima.
 
 Este app coleta uma série dados através de recursos de terceiros (Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play):
 - Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
@@ -20,22 +21,23 @@ Como as informações são utilizadas:
 
 ---- English ----
 
-Privacy Policy of the app: Controle de FII
+### Privacy Policy of the App: FII Control
 
-This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data from users and visitors of the Fixed Income and Investments Calculator app, developed by VandreApps. The purpose is to demonstrate absolute transparency on the subject and clarify to all interested parties about the types of data that are collected and the reasons for such collection.
+This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data from users and visitors of the Fixed Income and Investment Calculator app, developed by VandreApps. It aims to demonstrate complete transparency on the subject and clarify for all interested parties the types of data that are collected and the reasons for the collection.
 
-General information about data collection by this app:
-- No personal data is collected by the developer in a way that could identify the user personally.
-- All registered operations and user's portfolio are saved locally on the device, so no data is sent to cloud servers.
+#### General Information About Data Collection by This App:
+- No personal data is collected by the developer in a way that can personally identify the user.
+- All registered operations and the user's portfolio are saved only locally on the phone, meaning the portfolio is not sent to the cloud.
+- Some statistical data about the portfolio may be collected, but always anonymously.
 
-This app collects a series of data through third-party resources (Google Services, AdMob, Firebase Analytics, RevenueCat, and Google Play Store):
-- Device identification information such as model, operating system version, and application version.
-- Usage information like frequency of access to the application and features used.
-- Information about displayed ads such as number of times an ad was shown or clicked.
-- Please refer to these companies' privacy policies for more details.
+This app collects a series of data through third-party resources (Google Services, AdMob, Firebase Analytics, Revenue Cat, and Google Play Store):
+- Device identification information, such as model, operating system, and app version.
+- Usage information, such as the frequency of app access and features used.
+- Information about displayed ads, such as the number of times an ad was shown and the number of clicks.
+- Refer to the privacy policy of these companies for more information.
 
-How the information is used:
-- The information collected by Google Services and AdMob is used to display personalized ads to users and improve ad efficiency.
-- Statistical information about app usage is used for VandreApps developers to understand which features are most popular among users and implement improvements in-app functionalities.
-- Data gathered by Google Play Store or RevenueCat may be used for in-app purchases (if available on your platform).
-- Google may also use collected information as defined by their company's policies.
+#### How the Information Is Used:
+- The information collected by Google Services and AdMob is used to display personalized ads to users and improve the efficiency of the displayed ads.
+- Statistical information about app usage is used by the developer to understand the most used functions and implement improvements in the app.
+- The information collected by Google Play and RevenueCat is used for in-app purchases (if available on the platform used).
+- Google may also use the information collected as defined by the company.
