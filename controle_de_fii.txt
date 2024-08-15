@@ -28,6 +28,9 @@ Como as informações são utilizadas:
 
 This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data from users and visitors of the Fixed Income and Investment Calculator app, developed by VandreApps. It aims to demonstrate complete transparency on the subject and clarify for all interested parties the types of data that are collected and the reasons for the collection.
 
+- This application does not represent any government agency and has no affiliation with the Government.
+- Check official sources before making any decisions.
+
 #### General Information About Data Collection by This App:
 - No personal data is collected by the developer in a way that can personally identify the user.
 - All registered operations and the user's portfolio are saved only locally on the phone, meaning the portfolio is not sent to the cloud.
