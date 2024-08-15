@@ -2,6 +2,9 @@ Política de Privicidade do aplicativo: Calculadora Renda Fixa e Investimentos
 
 A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Calculadora Renda Fixa e Investimentos, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta.
 
+- Este aplicativo não representa qualquer órgão governamental, e não tem relação alguma com o Governo.
+- Confira em fontes oficias antes de tomar qualquer decisão.
+
 Informações gerais sobre a coleta de dados por este app:
 - Não é coletado nenhum dado pessoal pelo desenvolvedor de modo que este possa identificar o usuário pessoalmente de alguma forma.
 - Todos as simulações realizadas ficam salvas apenas localmente no celular, de forma que não é enviado nenhum dado da simulação para servidores em nuvem.
@@ -23,6 +26,9 @@ Como as informações são utilizadas:
   Privacy Policy of the application: Calculadora Renda Fixa e Investimentos
 
 This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data from users and visitors of the Calculadora Renda Fixa application developed by VandreApps. It aims to demonstrate absolute transparency on the subject and clarify to all interested parties about the types of data that are collected and the reasons for collection.
+
+- This application does not represent any government agency and has no affiliation with the Government.
+- Check official sources before making any decisions.
 
 General information about data collection by this app:
 - No personal data is collected by the developer in a way that could personally identify the user.
