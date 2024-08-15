@@ -2,6 +2,9 @@ Política de Privicidade do aplicativo: Controle de FII
 
 A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Calculadora Renda Fixa e Investimentos, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta.
 
+- Este aplicativo não representa qualquer órgão governamental, e não tem relação alguma com o Governo.
+- Confira em fontes oficias antes de tomar qualquer decisão.
+
 Informações gerais sobre a coleta de dados por este app:
 - Não é coletado nenhum dado pessoal pelo desenvolvedor de modo que este possa identificar o usuário pessoalmente de alguma forma.
 - Toda as operações cadastradas, e carteira do usuário ficam salvas apenas localmente no celular, de forma que a carteira não é enviada para a nuvem.
