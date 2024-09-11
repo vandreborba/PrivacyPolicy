@@ -1,1 +1,36 @@
+The present Privacy Policy contains information about the collection, use, storage, processing, and protection of the personal data of users and visitors of the Sabedoria Diária app, developed by VandreApps, with the purpose of demonstrating complete transparency on the matter and clarifying to all interested parties the types of data collected and the reasons for collecting it.
 
+The messages are created by generative language models. Any text does not represent the official view of any spiritualist doctrine. Furthermore, for any health-related issues, always seek guidance from a professional in the field based on science.
+Information collected by the app through third parties: Google Services, AdMob, Firebase Analytics, RevenueCat, and the Google Play Store:
+
+Device identification information, such as the model, operating system, and app version.
+Usage information, such as the frequency of app access and the features used.
+Information about displayed ads, such as the number of times an ad was shown and the number of clicks.
+How the information is used:
+
+The information collected by Google Services and AdMob is used to display personalized ads to users and improve the effectiveness of displayed ads.
+Statistical information about app usage is used to understand the most used features and implement app improvements.
+The information collected by Google Play and RevenueCat is used for in-app purchases (if available on the platform used).
+Google may also use the information collected as defined by the company.
+The developer:
+
+Apart from third-party services, the developer does not collect any personal data from the user.
+
+---- PORTUGUÊS ----
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Sabedoria Diária, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta.
+
+- As mensagens são criadas por modelos de linguagem generativa. Qualquer texto não representa visão oficial de nenhuma corrente espiritualista. Além disto, para qualquer questão relacionada à saúde, sempre procure orientação de um profissional da área da baseado na ciência. 
+
+Informações coletadas pelo aplicativo atrás de terceiros: Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play:
+- Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
+- Informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas.
+- Informações sobre anúncios exibidos, como o número de vezes que um anúncio foi exibido e o número de cliques.
+
+Como as informações são utilizadas:
+- As informações coletadas pelo Google Services e AdMob são utilizadas para exibir anúncios personalizados aos usuários e melhorar a eficiência dos anúncios exibidos.
+- As informações estatítiscas sobre o uso do app são usadas para entender as funções mais utilizadas e implementar melhorias no app
+- As informações colhidas pelo GooglePlay e RevenueCat são usadas para compras no app (se disponível na plataforma utilizada)
+- O google também pode utilizar as informações coletadas de forma definida pela empresa.
+
+O desenvolvedor em si:
+- Sem contar os serviços de terceiros, o desenvolvedor em si não coleta nenhum dado pessoal do usuário.
