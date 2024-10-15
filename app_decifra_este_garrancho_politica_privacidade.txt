@@ -1,0 +1,15 @@
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Decifra Este Garrancho, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta.
+
+Informações coletadas pelo aplicativo atrás de terceiros: Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play:
+- Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
+- Informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas.
+- Informações sobre anúncios exibidos, como o número de vezes que um anúncio foi exibido e o número de cliques.
+
+Como as informações são utilizadas:
+- As informações coletadas pelo Google Services e AdMob são utilizadas para exibir anúncios personalizados aos usuários e melhorar a eficiência dos anúncios exibidos.
+- As informações estatítiscas sobre o uso do app são usadas para entender as funções mais utilizadas e implementar melhorias no app
+- As informações colhidas pelo GooglePlay e RevenueCat são usadas para compras no app (se disponível na plataforma utilizada)
+- O google também pode utilizar as informações coletadas de forma definida pela empresa.
+
+O desenvolvedor em si:
+- Sem contar os serviços de terceiros, o desenvolvedor em si não coleta nenhum dado pessoal do usuário.
