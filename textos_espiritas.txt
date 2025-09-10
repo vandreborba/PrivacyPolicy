@@ -1,0 +1,56 @@
+**Política de Privacidade do aplicativo: Textos Espíritas**
+
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo **Textos Espíritas**, desenvolvido por **VandreApps**, com o objetivo de garantir transparência e esclarecer os tipos de dados coletados, bem como os motivos dessa coleta.
+
+* Este aplicativo não representa qualquer órgão governamental e não possui vínculo com o Governo.
+* O conteúdo apresentado é meramente informativo e espiritual; consulte sempre fontes oficiais para decisões importantes.
+
+**Informações gerais sobre a coleta de dados por este app:**
+
+* Não é coletado nenhum dado pessoal pelo desenvolvedor que possa identificar o usuário de forma individual.
+* O app se limita a apresentar textos de médiuns e conteúdos espirituais; não armazena informações sensíveis do usuário.
+
+Este app pode coletar alguns dados através de **serviços de terceiros** (Google Services, AdMob, Firebase Analytics, Google Play Store):
+
+* Informações do dispositivo, como modelo e sistema operacional.
+* Informações de uso do app, como frequência de acesso e funcionalidades utilizadas.
+* Informações sobre anúncios exibidos, se houver, como número de visualizações e cliques.
+* Para mais informações, consulte as políticas de privacidade destes serviços.
+
+**Como as informações são utilizadas:**
+
+* Dados coletados pelo Google Services e AdMob podem ser utilizados para exibir anúncios e melhorar sua eficiência.
+* Informações estatísticas de uso ajudam o desenvolvedor a entender as funções mais utilizadas e implementar melhorias.
+* Informações coletadas pelo Google Play podem ser usadas para compras no app (se disponíveis).
+* O Google também pode utilizar os dados coletados conforme definido por suas políticas.
+
+---
+
+**---- English ----**
+
+**Privacy Policy of the application: Textos Espíritas**
+
+This Privacy Policy provides information about the collection, use, storage, processing, and protection of personal data from users and visitors of the **Textos Espíritas** app, developed by **VandreApps**, aiming for transparency regarding the types of data collected and the reasons for collection.
+
+* This application does not represent any government agency and has no affiliation with the Government.
+* The content provided is purely spiritual and informative; always check official sources for important decisions.
+
+**General information about data collection by this app:**
+
+* No personal data is collected by the developer that could personally identify the user.
+* The app only displays texts from mediums and spiritual content; no sensitive user information is stored.
+
+This app may collect certain data through **third-party services** (Google Services, AdMob, Firebase Analytics, Google Play Store):
+
+* Device information, such as model and operating system.
+* Usage information, such as frequency of app access and features used.
+* Information about displayed ads, if any, such as the number of impressions and clicks.
+* For more details, please consult the privacy policies of these services.
+
+**How collected information is used:**
+
+* Data collected by Google Services and AdMob may be used to display ads and improve their efficiency.
+* Statistical usage data helps the developer understand the most used features and implement improvements.
+* Information collected by Google Play may be used for in-app purchases (if available).
+* Google may also use collected information as defined in its own policies.
+
