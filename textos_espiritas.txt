@@ -1,56 +1,138 @@
-**Política de Privacidade do aplicativo: Textos Espíritas**
+# Política de Privacidade do aplicativo: Textos Espíritas
 
 A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo **Textos Espíritas**, desenvolvido por **VandreApps**, com o objetivo de garantir transparência e esclarecer os tipos de dados coletados, bem como os motivos dessa coleta.
 
-* Este aplicativo não representa qualquer órgão governamental e não possui vínculo com o Governo.
-* O conteúdo apresentado é meramente informativo e espiritual; consulte sempre fontes oficiais para decisões importantes.
+## Informações gerais sobre a coleta de dados por este app:
 
-**Informações gerais sobre a coleta de dados por este app:**
+* **Não coletamos dados pessoais identificáveis**: O desenvolvedor não coleta nenhum dado pessoal que possa identificar o usuário de forma individual.
+* **Propósito específico**: O app se limita a apresentar textos de médiuns e conteúdos espirituais; não armazena informações sensíveis ou pessoais do usuário.
+* **Autenticação automática**: O aplicativo utiliza login anônimo automático apenas para personalizar a experiência do usuário, sem coletar dados pessoais.
 
-* Não é coletado nenhum dado pessoal pelo desenvolvedor que possa identificar o usuário de forma individual.
-* O app se limita a apresentar textos de médiuns e conteúdos espirituais; não armazena informações sensíveis do usuário.
+## Dados coletados através de serviços de terceiros:
 
 Este app pode coletar alguns dados através de **serviços de terceiros** (Google Services, AdMob, Firebase Analytics, Google Play Store):
 
-* Informações do dispositivo, como modelo e sistema operacional.
-* Informações de uso do app, como frequência de acesso e funcionalidades utilizadas.
-* Informações sobre anúncios exibidos, se houver, como número de visualizações e cliques.
-* Para mais informações, consulte as políticas de privacidade destes serviços.
+### Informações técnicas do dispositivo:
+* Modelo do dispositivo e sistema operacional
+* Versão do aplicativo instalada
+* Identificador anônimo gerado automaticamente
+* Configurações de idioma e região
 
-**Como as informações são utilizadas:**
+### Informações de uso do aplicativo:
+* Frequência de acesso e tempo de uso
+* Funcionalidades mais utilizadas
+* Padrões de navegação dentro do app
+* Dados analíticos para melhoria da experiência
 
-* Dados coletados pelo Google Services e AdMob podem ser utilizados para exibir anúncios e melhorar sua eficiência.
-* Informações estatísticas de uso ajudam o desenvolvedor a entender as funções mais utilizadas e implementar melhorias.
-* Informações coletadas pelo Google Play podem ser usadas para compras no app (se disponíveis).
-* O Google também pode utilizar os dados coletados conforme definido por suas políticas.
+### Informações sobre anúncios (quando disponíveis):
+* Número de visualizações e interações com anúncios
+* Preferências de conteúdo para personalização
+* Dados para otimização da exibição de anúncios
+
+### Controles técnicos:
+* Dados sobre frequência de uso para garantir performance adequada
+* Logs técnicos para monitoramento de estabilidade
+* Informações para prevenção de uso abusivo dos recursos
+
+## Como as informações são utilizadas:
+
+### Para melhoria do aplicativo:
+* Informações estatísticas de uso ajudam o desenvolvedor a entender as funções mais utilizadas
+* Implementação de melhorias baseadas no comportamento dos usuários
+* Correção de problemas técnicos e otimização de performance
+
+### Para publicidade (quando aplicável):
+* Dados coletados pelo Google Services e AdMob podem ser utilizados para exibir anúncios relevantes
+* Personalização de anúncios conforme interesses demonstrados
+* Melhoria da eficiência e relevância dos anúncios exibidos
+
+### Para funcionalidades da plataforma:
+* Informações coletadas pelo Google Play podem ser usadas para compras no app (se disponíveis)
+* Sincronização de preferências entre dispositivos
+* Suporte técnico e resolução de problemas
+
+## Compartilhamento de dados:
+
+* **Não compartilhamos dados pessoais** com terceiros além dos serviços mencionados acima
+* **Google e seus serviços** podem utilizar os dados coletados conforme suas próprias políticas de privacidade
+* **Dados agregados e anônimos** podem ser utilizados para estatísticas gerais de uso
+
+## Seus direitos e controles:
+
+* Você pode desinstalar o aplicativo a qualquer momento
+* As configurações de personalização de anúncios podem ser gerenciadas através das configurações do Google
+* Para exercer direitos relacionados aos seus dados, consulte as políticas de privacidade dos serviços Google
+
+
+**Data da última atualização:** Setembro de 2025
 
 ---
 
-**---- English ----**
+## ---- English ----
 
-**Privacy Policy of the application: Textos Espíritas**
+# Privacy Policy of the application: Textos Espíritas
 
-This Privacy Policy provides information about the collection, use, storage, processing, and protection of personal data from users and visitors of the **Textos Espíritas** app, developed by **VandreApps**, aiming for transparency regarding the types of data collected and the reasons for collection.
+This Privacy Policy contains information about the collection, use, storage, processing and protection of personal data from users and visitors of the **Textos Espíritas** application, developed by **VandreApps**, with the objective of ensuring transparency and clarifying the types of data collected, as well as the reasons for this collection.
 
-* This application does not represent any government agency and has no affiliation with the Government.
-* The content provided is purely spiritual and informative; always check official sources for important decisions.
+## General information about data collection by this app:
 
-**General information about data collection by this app:**
+* **We do not collect identifiable personal data**: The developer does not collect any personal data that could identify the user individually.
+* **Specific purpose**: The app is limited to presenting texts from mediums and spiritual content; it does not store sensitive or personal user information.
+* **Automatic authentication**: The application uses automatic anonymous login only to personalize the user experience, without collecting personal data.
 
-* No personal data is collected by the developer that could personally identify the user.
-* The app only displays texts from mediums and spiritual content; no sensitive user information is stored.
+## Data collected through third-party services:
 
-This app may collect certain data through **third-party services** (Google Services, AdMob, Firebase Analytics, Google Play Store):
+This app may collect some data through **third-party services** (Google Services, AdMob, Firebase Analytics, Google Play Store):
 
-* Device information, such as model and operating system.
-* Usage information, such as frequency of app access and features used.
-* Information about displayed ads, if any, such as the number of impressions and clicks.
-* For more details, please consult the privacy policies of these services.
+### Device technical information:
+* Device model and operating system
+* Installed application version
+* Automatically generated anonymous identifier
+* Language and region settings
 
-**How collected information is used:**
+### Application usage information:
+* Access frequency and usage time
+* Most used features
+* Navigation patterns within the app
+* Analytics data for experience improvement
 
-* Data collected by Google Services and AdMob may be used to display ads and improve their efficiency.
-* Statistical usage data helps the developer understand the most used features and implement improvements.
-* Information collected by Google Play may be used for in-app purchases (if available).
-* Google may also use collected information as defined in its own policies.
+### Advertising information (when available):
+* Number of ad views and interactions
+* Content preferences for personalization
+* Data for ad display optimization
 
+### Technical controls:
+* Usage frequency data to ensure adequate performance
+* Technical logs for stability monitoring
+* Information for preventing resource abuse
+
+## How the information is used:
+
+### For application improvement:
+* Statistical usage information helps the developer understand the most used functions
+* Implementation of improvements based on user behavior
+* Technical problem correction and performance optimization
+
+### For advertising (when applicable):
+* Data collected by Google Services and AdMob may be used to display relevant ads
+* Ad personalization according to demonstrated interests
+* Improvement of ad efficiency and relevance
+
+### For platform features:
+* Information collected by Google Play may be used for in-app purchases (if available)
+* Preference synchronization between devices
+* Technical support and problem resolution
+
+## Data sharing:
+
+* **We do not share personal data** with third parties beyond the services mentioned above
+* **Google and its services** may use collected data according to their own privacy policies
+* **Aggregated and anonymous data** may be used for general usage statistics
+
+## Your rights and controls:
+
+* You can uninstall the application at any time
+* Ad personalization settings can be managed through Google settings
+* To exercise rights related to your data, consult the privacy policies of Google services
+
+**Last updated:** September 2025
