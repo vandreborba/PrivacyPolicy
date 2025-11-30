@@ -1,5 +1,6 @@
-
 # Política de Privacidade - Planzee
+
+**Última atualização:** 30 de novembro de 2025
 
 ---
 
@@ -13,20 +14,46 @@ A presente Política de Privacidade contém informações sobre coleta, uso, arm
 
 - **Não é coletado nenhum dado pessoal pelo desenvolvedor** de modo que este possa identificar o usuário pessoalmente de alguma forma.
 - **Todos os dados criados pelo usuário (tarefas, planejamentos, configurações) ficam salvos apenas localmente no dispositivo**, de forma que não é enviado nenhum dado para servidores em nuvem.
-- O aplicativo **não requer conexão com a internet** para funcionar e não transmite seus dados pessoais para servidores externos.
+- O aplicativo pode requerer conexão com a internet para exibição de anúncios e processamento de compras in-app.
 
 ### Dados coletados por terceiros:
 
-Este app pode coletar uma série de dados através de recursos de terceiros (Google Services, Google Play Store):
+Este app pode coletar uma série de dados através de recursos de terceiros (Google Services, Google Play Store, Google AdMob, RevenueCat):
 
 - Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
 - Informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas.
+- **ID de publicidade (Advertising ID)** para exibição de anúncios personalizados.
 - Consulte a política de privacidade destas empresas para maiores informações.
+
+### Publicidade (Google AdMob):
+
+Este aplicativo utiliza o **Google AdMob** para exibir anúncios. O AdMob pode coletar:
+
+- **ID de publicidade** do dispositivo para personalização de anúncios.
+- Dados de interação com anúncios (cliques, visualizações).
+- Informações do dispositivo para segmentação de anúncios.
+
+Os anúncios exibidos podem ser personalizados com base nos seus interesses. Você pode optar por anúncios não personalizados nas configurações do seu dispositivo Android (Configurações > Google > Anúncios > Desativar personalização de anúncios).
+
+Para mais informações sobre como o Google utiliza os dados coletados, consulte: [Política de Privacidade do Google](https://policies.google.com/privacy)
+
+### Compras In-App (RevenueCat):
+
+Este aplicativo utiliza o **RevenueCat** para gerenciar assinaturas e compras in-app. O RevenueCat pode coletar:
+
+- **Identificador anônimo do usuário** para gerenciamento de assinaturas.
+- Informações sobre transações de compra (processadas pela Google Play Store).
+- Dados do dispositivo para verificação de elegibilidade de compras.
+
+O RevenueCat **não coleta** informações de pagamento diretamente. Todas as transações são processadas de forma segura pela Google Play Store.
+
+Para mais informações, consulte: [Política de Privacidade do RevenueCat](https://www.revenuecat.com/privacy)
 
 ### Como as informações são utilizadas:
 
 - As informações estatísticas sobre o uso do app podem ser usadas pelo desenvolvedor do Planzee para entender as funções mais utilizadas e implementar melhorias no app.
-- O Google também pode utilizar as informações coletadas de forma definida pela empresa.
+- O Google utiliza os dados coletados para exibir anúncios relevantes e mensurar o desempenho das campanhas publicitárias.
+- O RevenueCat utiliza os dados para gerenciar assinaturas e garantir o acesso aos recursos premium.
 
 ### Armazenamento de dados:
 
@@ -60,20 +87,46 @@ This Privacy Policy contains information about the collection, use, storage, pro
 
 - **No personal data is collected by the developer** in a way that could personally identify the user.
 - **All user-created data (tasks, plans, settings) are saved locally on the device only**, so no data is sent to cloud servers.
-- The application **does not require an internet connection** to function and does not transmit your personal data to external servers.
+- The application may require an internet connection for displaying ads and processing in-app purchases.
 
 ### Data collected by third parties:
 
-This app may collect several types of data through third-party resources (Google Services, Google Play Store):
+This app may collect several types of data through third-party resources (Google Services, Google Play Store, Google AdMob, RevenueCat):
 
 - Device identification information such as model, operating system, and app version.
 - Usage information such as frequency of access to the application and utilized features.
+- **Advertising ID** for displaying personalized ads.
 - Please consult these companies' privacy policies for more detailed information.
+
+### Advertising (Google AdMob):
+
+This application uses **Google AdMob** to display ads. AdMob may collect:
+
+- Device **Advertising ID** for ad personalization.
+- Ad interaction data (clicks, impressions).
+- Device information for ad targeting.
+
+Displayed ads may be personalized based on your interests. You can opt out of personalized ads in your Android device settings (Settings > Google > Ads > Opt out of Ads Personalization).
+
+For more information on how Google uses collected data, visit: [Google Privacy Policy](https://policies.google.com/privacy)
+
+### In-App Purchases (RevenueCat):
+
+This application uses **RevenueCat** to manage subscriptions and in-app purchases. RevenueCat may collect:
+
+- **Anonymous user identifier** for subscription management.
+- Purchase transaction information (processed by Google Play Store).
+- Device data for purchase eligibility verification.
+
+RevenueCat **does not collect** payment information directly. All transactions are securely processed by Google Play Store.
+
+For more information, visit: [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
 
 ### How collected information is used:
 
 - Statistical usage information may be used by the developer of Planzee for better understanding which functions are most utilized in order to implement improvements in future updates.
-- Google may also utilize collected information according to its own defined terms.
+- Google uses collected data to display relevant ads and measure advertising campaign performance.
+- RevenueCat uses data to manage subscriptions and ensure access to premium features.
 
 ### Data Storage:
 
