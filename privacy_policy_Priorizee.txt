@@ -1,0 +1,100 @@
+
+# Política de Privacidade - Planzee
+
+---
+
+## Português
+
+### Política de Privacidade do aplicativo: Planzee
+
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Planzee, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados e os motivos da coleta.
+
+### Informações gerais sobre a coleta de dados por este app:
+
+- **Não é coletado nenhum dado pessoal pelo desenvolvedor** de modo que este possa identificar o usuário pessoalmente de alguma forma.
+- **Todos os dados criados pelo usuário (tarefas, planejamentos, configurações) ficam salvos apenas localmente no dispositivo**, de forma que não é enviado nenhum dado para servidores em nuvem.
+- O aplicativo **não requer conexão com a internet** para funcionar e não transmite seus dados pessoais para servidores externos.
+
+### Dados coletados por terceiros:
+
+Este app pode coletar uma série de dados através de recursos de terceiros (Google Services, Google Play Store):
+
+- Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
+- Informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas.
+- Consulte a política de privacidade destas empresas para maiores informações.
+
+### Como as informações são utilizadas:
+
+- As informações estatísticas sobre o uso do app podem ser usadas pelo desenvolvedor do Planzee para entender as funções mais utilizadas e implementar melhorias no app.
+- O Google também pode utilizar as informações coletadas de forma definida pela empresa.
+
+### Armazenamento de dados:
+
+- Todos os dados do usuário são armazenados **exclusivamente no dispositivo** do usuário.
+- O desenvolvedor **não tem acesso** aos dados pessoais do usuário.
+- A exclusão do aplicativo resultará na **perda de todos os dados** armazenados localmente.
+
+### Segurança:
+
+- O aplicativo utiliza as melhores práticas de desenvolvimento para garantir a segurança dos dados armazenados localmente.
+- Recomendamos que o usuário mantenha seu dispositivo protegido com senha ou biometria.
+
+### Alterações nesta política:
+
+- Esta política de privacidade pode ser atualizada periodicamente.
+- Recomendamos que os usuários revisitem esta página regularmente para se manterem informados sobre quaisquer alterações.
+
+### Contato:
+
+Para dúvidas sobre esta política de privacidade, entre em contato através do e-mail: **vandreborba@gmail.com**
+
+---
+
+## English
+
+### Privacy Policy of the application: Planzee
+
+This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data from users and visitors of the Planzee application developed by VandreApps. It aims to demonstrate absolute transparency on the subject and clarify to all interested parties about the types of data that are collected and the reasons for collection.
+
+### General information about data collection by this app:
+
+- **No personal data is collected by the developer** in a way that could personally identify the user.
+- **All user-created data (tasks, plans, settings) are saved locally on the device only**, so no data is sent to cloud servers.
+- The application **does not require an internet connection** to function and does not transmit your personal data to external servers.
+
+### Data collected by third parties:
+
+This app may collect several types of data through third-party resources (Google Services, Google Play Store):
+
+- Device identification information such as model, operating system, and app version.
+- Usage information such as frequency of access to the application and utilized features.
+- Please consult these companies' privacy policies for more detailed information.
+
+### How collected information is used:
+
+- Statistical usage information may be used by the developer of Planzee for better understanding which functions are most utilized in order to implement improvements in future updates.
+- Google may also utilize collected information according to its own defined terms.
+
+### Data Storage:
+
+- All user data is stored **exclusively on the user's device**.
+- The developer **does not have access** to the user's personal data.
+- Uninstalling the application will result in the **loss of all locally stored data**.
+
+### Security:
+
+- The application uses best development practices to ensure the security of locally stored data.
+- We recommend that users keep their device protected with a password or biometrics.
+
+### Changes to this policy:
+
+- This privacy policy may be updated periodically.
+- We recommend that users revisit this page regularly to stay informed about any changes.
+
+### Contact:
+
+For questions about this privacy policy, please contact us at: **vandreborba@gmail.com**
+
+---
+
+*VandreApps - Planzee © 2025*
