@@ -1,0 +1,228 @@
+POLÍTICA DE PRIVACIDADE - Organizee
+Última atualização: 11 de fevereiro de 2026
+Desenvolvedor: VandreApps
+
+1. INTRODUÇÃO
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários do aplicativo Organizee, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos os interessados sobre os tipos de dados que são coletados e os motivos da coleta.
+
+2. ARMAZENAMENTO LOCAL DE DADOS
+IMPORTANTE: Todos os dados criados e gerenciados pelo usuário dentro do aplicativo (como informações de estoque, produtos, categorias, movimentações, configurações personalizadas e demais informações cadastradas) são armazenados exclusivamente no dispositivo do usuário e não são enviados para servidores externos do desenvolvedor.
+
+O desenvolvedor não tem acesso, não coleta e não armazena esses dados pessoais em nenhum servidor próprio.
+
+Analytics de Uso: Embora os dados criados permaneçam locais, o aplicativo registra eventos de uso (como telas visitadas e recursos acessados) através do Firebase Analytics para fins de melhoria do aplicativo. Nenhum conteúdo pessoal criado pelo usuário é enviado neste processo.
+
+3. INFORMAÇÕES COLETADAS POR TERCEIROS
+O aplicativo utiliza serviços de terceiros que podem coletar informações automaticamente para fins de análise, publicidade e processamento de compras. Os dados coletados incluem:
+
+3.1. Dados Coletados
+Identificação do dispositivo: modelo, sistema operacional, versão do aplicativo e identificadores únicos
+Informações de uso: frequência de acesso, funcionalidades utilizadas, tempo de sessão
+Informações de anúncios: número de exibições, cliques e interações com anúncios
+Dados de transação: informações sobre compras dentro do aplicativo (quando aplicável)
+Eventos de navegação: telas visualizadas, recursos acessados, tempo em cada funcionalidade
+Ações do usuário: botões clicados, formulários acessados (sem conteúdo), funcionalidades utilizadas
+Métricas de engajamento: frequência de uso de cada recurso, sequência de navegação
+3.2. Serviços Terceiros Utilizados
+Google Services e AdMob: exibição de anúncios
+Firebase Analytics: análise de uso e desempenho do aplicativo
+RevenueCat: gerenciamento de assinaturas e compras
+Google Play Store: distribuição e gestão de compras no aplicativo
+
+3.3. Eventos Rastreados pelo Firebase Analytics
+O aplicativo registra os seguintes tipos de eventos para análise de uso:
+
+Telas acessadas: registro de quais telas foram visualizadas (ex: tela de produtos, tela de movimentações, tela de relatórios)
+Recursos utilizados: quais funcionalidades foram acionadas (ex: adicionar produto, gerar relatório, escanear código)
+Ações do usuário: interações com botões, menus e elementos da interface
+Tempo de uso: duração de sessões e tempo em cada funcionalidade
+Fluxo de navegação: sequência de telas visitadas
+Importante: O conteúdo inserido pelo usuário (nomes de produtos, quantidades, valores, descrições, anotações e quaisquer dados cadastrados) NÃO é enviado ao Analytics. Apenas métricas de uso e navegação são coletadas, sem identificação pessoal.
+
+4. FINALIDADE DO USO DOS DADOS
+As informações coletadas pelos serviços de terceiros são utilizadas para:
+
+Exibição de anúncios personalizados: melhorar a relevância dos anúncios exibidos aos usuários através do Google AdMob
+Análise estatística: compreender quais funcionalidades são mais utilizadas para implementar melhorias no aplicativo
+Rastreamento de recursos: identificar quais funcionalidades são mais acessadas pelos usuários para priorizar melhorias e desenvolver novos recursos baseados no comportamento real de uso
+Processamento de compras: gerenciar assinaturas e compras dentro do aplicativo (quando disponível)
+Melhoria de desempenho: identificar e corrigir problemas técnicos
+Personalização da experiência: adaptar o aplicativo às preferências dos usuários
+Os serviços terceiros (Google, RevenueCat) também podem utilizar as informações coletadas conforme suas próprias políticas de privacidade.
+
+5. BASE LEGAL PARA TRATAMENTO DE DADOS
+O tratamento de dados pessoais é realizado com base nas seguintes hipóteses legais:
+
+Consentimento do usuário ao utilizar o aplicativo e aceitar esta política
+Legítimo interesse para melhorias do aplicativo e análise estatística
+Execução de contrato para processamento de compras e assinaturas
+
+6. COMPARTILHAMENTO DE DADOS
+O desenvolvedor não compartilha, vende ou aluga dados pessoais dos usuários. As únicas informações compartilhadas são aquelas coletadas automaticamente pelos serviços de terceiros mencionados, conforme suas respectivas políticas de privacidade.
+
+O desenvolvedor não tem acesso direto aos dados individuais dos usuários, mas recebe relatórios agregados e anonimizados do Firebase Analytics sobre o uso geral do aplicativo, incluindo:
+
+Funcionalidades mais utilizadas
+Padrões de navegação
+Estatísticas de engajamento
+Tempo médio de uso
+
+6.1. Transferência Internacional de Dados
+Os serviços de terceiros utilizados (Google, RevenueCat) podem transferir dados para servidores localizados fora do Brasil, seguindo suas próprias políticas de privacidade e proteção de dados.
+
+7. SEGURANÇA DOS DADOS
+Embora o desenvolvedor não armazene dados pessoais em seus servidores, os serviços de terceiros utilizados implementam medidas de segurança técnicas e administrativas para proteger os dados coletados contra acesso não autorizado, perda, destruição ou alteração.
+
+O usuário é responsável pela segurança física do seu dispositivo, onde os dados locais do aplicativo são armazenados.
+
+8. RETENÇÃO DE DADOS
+Dados locais: permanecem no dispositivo do usuário até que o aplicativo seja desinstalado ou os dados sejam manualmente excluídos
+Dados de terceiros: são retidos conforme as políticas de cada serviço terceiro utilizado (geralmente entre 2 meses a 14 meses para dados analíticos)
+
+9. ANÚNCIOS PERSONALIZADOS E OPT-OUT
+Você pode desativar anúncios personalizados através das configurações do seu dispositivo ou acessando:
+
+Google Ads Settings: https://adssettings.google.com/
+Network Advertising Initiative: https://www.networkadvertising.org/choices/
+Atenção: Desativar anúncios personalizados não impede a exibição de anúncios, mas eles serão menos relevantes aos seus interesses.
+
+10. POLÍTICAS DE PRIVACIDADE DOS SERVIÇOS TERCEIROS
+Para mais informações sobre como os serviços de terceiros tratam seus dados, consulte:
+
+Google Services e AdMob: https://policies.google.com/privacy
+Firebase Analytics: https://firebase.google.com/support/privacy
+RevenueCat: https://www.revenuecat.com/privacy
+Google Play Store: https://play.google.com/about/privacy-security-deceptive-behavior/
+
+11. DECLARAÇÃO DO DESENVOLVEDOR
+O desenvolvedor VandreApps declara que:
+
+Não coleta, armazena ou processa dados pessoais dos usuários (como informações de produtos, estoque, movimentações) em servidores próprios
+Todos os dados criados pelo usuário permanecem armazenados localmente no dispositivo
+Apenas os serviços de terceiros mencionados nesta política têm acesso a dados analíticos e publicitários para fins específicos de funcionalidade do aplicativo
+O aplicativo não solicita acesso a câmera, microfone, contatos, galeria de fotos ou localização, exceto quando explicitamente necessário para funcionalidades específicas (ex: escanear código de barras) e sempre com permissão prévia do usuário
+O conteúdo dos dados inseridos pelo usuário (nomes, valores, quantidades, descrições) nunca é enviado para serviços de Analytics ou servidores externos
+
+12. COOKIES E TECNOLOGIAS DE RASTREAMENTO
+O aplicativo utiliza tecnologias de rastreamento através dos serviços de terceiros mencionados (Firebase Analytics, AdMob) para coletar informações sobre o uso do aplicativo. Essas tecnologias incluem:
+
+Identificadores de dispositivo: para reconhecer o dispositivo em diferentes sessões
+Tokens de sessão: para rastrear a duração e frequência de uso
+Pixels de rastreamento: para medir interações com anúncios
+Essas tecnologias são gerenciadas pelos respectivos serviços terceiros conforme suas políticas.
+
+---
+
+Ao utilizar o aplicativo Organizee, você concorda com esta Política de Privacidade e com o tratamento de dados aqui descrito.
+
+---
+---
+
+PRIVACY POLICY - Organizee
+Last updated: February 11, 2026
+Developer: VandreApps
+
+1. INTRODUCTION
+This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data of users of the Organizee application, developed by VandreApps, with the purpose of demonstrating absolute transparency on the subject and clarifying to all interested parties about the types of data that are collected and the reasons for the collection.
+
+2. LOCAL DATA STORAGE
+IMPORTANT: All data created and managed by the user within the application (such as inventory information, products, categories, transactions, custom settings, and other registered information) are stored exclusively on the user's device and are not sent to the developer's external servers.
+
+The developer does not have access to, does not collect, and does not store this personal data on any proprietary server.
+
+Usage Analytics: Although the created data remains local, the application records usage events (such as screens visited and features accessed) through Firebase Analytics for the purpose of improving the application. No personal content created by the user is sent in this process.
+
+3. INFORMATION COLLECTED BY THIRD PARTIES
+The application uses third-party services that may automatically collect information for analysis, advertising, and purchase processing purposes. The data collected includes:
+
+3.1. Data Collected
+Device identification: model, operating system, application version, and unique identifiers
+Usage information: access frequency, features used, session time
+Advertising information: number of impressions, clicks, and interactions with ads
+Transaction data: information about in-app purchases (when applicable)
+Navigation events: screens viewed, features accessed, time on each functionality
+User actions: buttons clicked, forms accessed (without content), features used
+Engagement metrics: frequency of use of each feature, navigation sequence
+3.2. Third-Party Services Used
+Google Services and AdMob: ad display
+Firebase Analytics: application usage and performance analysis
+RevenueCat: subscription and purchase management
+Google Play Store: distribution and in-app purchase management
+3.3. Events Tracked by Firebase Analytics
+The application records the following types of events for usage analysis:
+
+Accessed screens: record of which screens were viewed (e.g., products screen, transactions screen, reports screen)
+Features used: which functionalities were triggered (e.g., add product, generate report, scan barcode)
+User actions: interactions with buttons, menus, and interface elements
+Usage time: session duration and time on each functionality
+Navigation flow: sequence of screens visited
+Important: The content entered by the user (product names, quantities, values, descriptions, notes, and any registered data) is NOT sent to Analytics. Only usage and navigation metrics are collected, without personal identification.
+
+4. PURPOSE OF DATA USE
+The information collected by third-party services is used to:
+
+Display personalized ads: improve the relevance of ads displayed to users through Google AdMob
+Statistical analysis: understand which features are most used to implement improvements in the application
+Feature tracking: identify which functionalities are most accessed by users to prioritize improvements and develop new features based on actual usage behavior
+Purchase processing: manage subscriptions and in-app purchases (when available)
+Performance improvement: identify and fix technical issues
+Experience personalization: adapt the application to user preferences
+Third-party services (Google, RevenueCat) may also use the collected information according to their own privacy policies.
+
+5. LEGAL BASIS FOR DATA PROCESSING
+The processing of personal data is carried out based on the following legal bases:
+
+User consent when using the application and accepting this policy
+Legitimate interest for application improvements and statistical analysis
+Contract execution for purchase and subscription processing
+6. DATA SHARING
+The developer does not share, sell, or rent users' personal data. The only information shared is that automatically collected by the mentioned third-party services, according to their respective privacy policies.
+
+The developer does not have direct access to individual user data but receives aggregated and anonymized reports from Firebase Analytics about general application usage, including:
+
+Most used features
+Navigation patterns
+Engagement statistics
+Average usage time
+6.1. International Data Transfer
+The third-party services used (Google, RevenueCat) may transfer data to servers located outside Brazil, following their own privacy and data protection policies.
+
+7. DATA SECURITY
+Although the developer does not store personal data on its servers, the third-party services used implement technical and administrative security measures to protect collected data against unauthorized access, loss, destruction, or alteration.
+
+The user is responsible for the physical security of their device, where the application's local data is stored.
+
+8. DATA RETENTION
+Local data: remains on the user's device until the application is uninstalled or data is manually deleted
+Third-party data: retained according to the policies of each third-party service used (generally between 2 months to 14 months for analytical data)
+9. PERSONALIZED ADVERTISING AND OPT-OUT
+You can disable personalized ads through your device settings or by accessing:
+
+Google Ads Settings: https://adssettings.google.com/
+Network Advertising Initiative: https://www.networkadvertising.org/choices/
+Note: Disabling personalized ads does not prevent ad display, but they will be less relevant to your interests.
+
+10. THIRD-PARTY SERVICE PRIVACY POLICIES
+For more information about how third-party services handle your data, consult:
+
+Google Services and AdMob: https://policies.google.com/privacy
+Firebase Analytics: https://firebase.google.com/support/privacy
+RevenueCat: https://www.revenuecat.com/privacy
+Google Play Store: https://play.google.com/about/privacy-security-deceptive-behavior/
+11. DEVELOPER DECLARATION
+The developer VandreApps declares that:
+
+Does not collect, store, or process users' personal data (such as product information, inventory, transactions) on proprietary servers
+All data created by the user remains stored locally on the device
+Only the third-party services mentioned in this policy have access to analytical and advertising data for specific application functionality purposes
+The application does not request access to camera, microphone, contacts, photo gallery, or location, except when explicitly necessary for specific functionalities (e.g., barcode scanning) and always with prior user permission
+The content of data entered by the user (names, values, quantities, descriptions) is never sent to Analytics services or external servers
+12. COOKIES AND TRACKING TECHNOLOGIES
+The application uses tracking technologies through the mentioned third-party services (Firebase Analytics, AdMob) to collect information about application usage. These technologies include:
+
+Device identifiers: to recognize the device across different sessions
+Session tokens: to track usage duration and frequency
+Tracking pixels: to measure interactions with ads
+These technologies are managed by the respective third-party services according to their policies.
+
+By using the Organizee application, you agree to this Privacy Policy and the data processing described herein.
