@@ -1,49 +1,599 @@
-Política de Privicidade do aplicativo: Controle de FII
+Rascunho — Política de Privacidade (Controle de FII)
 
-A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e visitantes do aplicativo Calculadora Renda Fixa e Investimentos, desenvolvido por VandreApps, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta.
 
-- Este aplicativo não representa qualquer órgão governamental, e não tem relação alguma com o Governo.
-- Confira em fontes oficias antes de tomar qualquer decisão.
 
-Informações gerais sobre a coleta de dados por este app:
-- Não é coletado nenhum dado pessoal pelo desenvolvedor de modo que este possa identificar o usuário pessoalmente de alguma forma.
-- Toda as operações cadastradas, e carteira do usuário ficam salvas apenas localmente no celular, de forma que a carteira não é enviada para a nuvem.
-- Alguns dados estatísticos sobre a carteira pode ser coletados, mas sempre de forma anônima.
+Copiar para: https://github.com/vandreborba/PrivacyPolicy/blob/main/controle_de_fii.txt
 
-Este app coleta uma série dados através de recursos de terceiros (Google Services, AdMob, Firebase Analytics, Revenue Cat e Loja do Google Play):
-- Informações de identificação do dispositivo, como modelo, sistema operacional e versão do aplicativo.
-- Informações de uso, como a frequência de acesso ao aplicativo e as funcionalidades utilizadas.
-- Informações sobre anúncios exibidos, como o número de vezes que um anúncio foi exibido e o número de cliques.
-- Consulte a política de privacidade destas empresas para maiores informações.
 
-Como as informações são utilizadas:
-- As informações coletadas pelo Google Services e AdMob são utilizadas para exibir anúncios personalizados aos usuários e melhorar a eficiência dos anúncios exibidos.
-- As informações estatítiscas sobre o uso do app são usadas para o desenvolvedor entender as funções mais utilizadas e implementar melhorias no app.
-- As informações colhidas pelo GooglePlay e RevenueCat são usadas para compras no app (se disponível na plataforma utilizada).
-- O google também pode utilizar as informações coletadas de forma definida pela empresa.
 
----- English ----
+pt-BR (Português Brasileiro)
 
-### Privacy Policy of the App: FII Control
+POLÍTICA DE PRIVACIDADE — Controle de FII
+Última atualização: 13 de junho de 2026
+Desenvolvedor: VandreApps
 
-This Privacy Policy contains information about the collection, use, storage, processing, and protection of personal data from users and visitors of the Fixed Income and Investment Calculator app, developed by VandreApps. It aims to demonstrate complete transparency on the subject and clarify for all interested parties the types of data that are collected and the reasons for the collection.
 
-- This application does not represent any government agency and has no affiliation with the Government.
-- Check official sources before making any decisions.
 
-#### General Information About Data Collection by This App:
-- No personal data is collected by the developer in a way that can personally identify the user.
-- All registered operations and the user's portfolio are saved only locally on the phone, meaning the portfolio is not sent to the cloud.
-- Some statistical data about the portfolio may be collected, but always anonymously.
+SOBRE O DESENVOLVEDOR
 
-This app collects a series of data through third-party resources (Google Services, AdMob, Firebase Analytics, Revenue Cat, and Google Play Store):
-- Device identification information, such as model, operating system, and app version.
-- Usage information, such as the frequency of app access and features used.
-- Information about displayed ads, such as the number of times an ad was shown and the number of clicks.
-- Refer to the privacy policy of these companies for more information.
+VandreApps é um desenvolvedor independente, atuando como pessoa física, sem vínculo a qualquer empresa ou organização corporativa. Todo o desenvolvimento, manutenção e suporte do aplicativo Controle de FII são realizados de forma autônoma e individual.
 
-#### How the Information Is Used:
-- The information collected by Google Services and AdMob is used to display personalized ads to users and improve the efficiency of the displayed ads.
-- Statistical information about app usage is used by the developer to understand the most used functions and implement improvements in the app.
-- The information collected by Google Play and RevenueCat is used for in-app purchases (if available on the platform used).
-- Google may also use the information collected as defined by the company.
+
+
+1. INTRODUÇÃO
+
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados dos usuários do aplicativo Controle de FII, desenvolvido por VandreApps, com a finalidade de demonstrar transparência e esclarecer sobre os tipos de dados tratados e os motivos do tratamento.
+
+
+
+2. ARMAZENAMENTO DE DADOS
+
+Armazenamento local:
+Todos os dados criados e gerenciados pelo usuário dentro do aplicativo — carteira de FIIs, cotas, operações, rendimentos, preço médio, histórico de dividendos e configurações personalizadas — são armazenados exclusivamente no dispositivo do usuário e não são enviados para servidores do desenvolvedor.
+
+O desenvolvedor não tem acesso, não coleta e não armazena esses dados em nenhum servidor próprio.
+
+Analytics de uso:
+O aplicativo registra eventos de uso (telas visitadas, funcionalidades acessadas) através do Firebase Analytics, para fins de melhoria do aplicativo. Nenhum conteúdo pessoal criado pelo usuário é enviado nesse processo.
+
+
+
+3. ESTATÍSTICAS ANÔNIMAS (recurso opcional)
+
+O aplicativo pode enviar estatísticas agregadas e anônimas sobre o uso da carteira para viabilizar recursos do aplicativo. Essa participação é opcional: vem ativada por padrão, pode ser desativada a qualquer momento em Preferências → Estatísticas da Comunidade, e os dados são armazenados temporariamente — por até 30 dias — sendo removidos automaticamente após esse período.
+
+Quando ativa, são enviadas apenas informações resumidas — como siglas de FIIs (em quantidade limitada), quantidade de fundos na carteira, distribuição aproximada por setor e movimentações recentes de compra ou venda. Para contar participantes sem identificá-los, o app usa um identificador aleatório gerado no aparelho, sem qualquer vínculo com nome, e-mail ou conta.
+
+Não são enviados nome, e-mail, valores financeiros individuais, carteira completa nem histórico detalhado de operações.
+
+Ao desativar a participação, o aplicativo cessa imediatamente o envio de estatísticas e os recursos que dependem delas ficam indisponíveis.
+
+
+
+4. INFORMAÇÕES COLETADAS POR TERCEIROS
+
+O aplicativo utiliza serviços de terceiros que podem coletar informações automaticamente para fins de análise, publicidade e processamento de compras.
+
+4.1. Dados coletados pelos serviços de terceiros
+
+
+
+
+
+Identificação do dispositivo: modelo, sistema operacional, versão do aplicativo e identificadores únicos
+
+
+
+Informações de uso: frequência de acesso, funcionalidades utilizadas, duração de sessão
+
+
+
+Informações de anúncios: número de exibições, cliques e interações
+
+
+
+Dados de transação: informações sobre compras dentro do aplicativo
+
+
+
+Eventos de navegação: telas visualizadas, recursos acessados, tempo em cada funcionalidade
+
+
+
+Importante: O conteúdo inserido pelo usuário (siglas de FIIs, valores, quantidades, operações, rendimentos) NÃO é enviado ao Firebase Analytics. Apenas métricas de uso e navegação são coletadas.
+
+4.2. Serviços terceiros utilizados
+
+
+
+
+
+Google AdMob: exibição de anúncios
+
+
+
+Firebase Analytics: análise de uso e desempenho do aplicativo
+
+
+
+Firebase Firestore: armazenamento das estatísticas anônimas da comunidade (somente se a participação estiver ativa)
+
+
+
+RevenueCat: gerenciamento de assinaturas e compras in-app (apoiador)
+
+
+
+Google Play Store: distribuição e gestão de compras
+
+
+
+5. FINALIDADE DO USO DOS DADOS
+
+As informações coletadas pelos serviços de terceiros são utilizadas para:
+
+
+
+
+
+Exibição de anúncios: melhorar a relevância dos anúncios exibidos através do Google AdMob
+
+
+
+Análise estatística: compreender quais funcionalidades são mais utilizadas para implementar melhorias
+
+
+
+Comparativos entre usuários: calcular médias e rankings agregados exibidos no aplicativo (somente com participação ativa)
+
+
+
+Processamento de compras: gerenciar assinaturas e compras dentro do aplicativo
+
+
+
+Melhoria de desempenho: identificar e corrigir problemas técnicos
+
+
+
+6. BASE LEGAL PARA TRATAMENTO DE DADOS
+
+O tratamento de dados é realizado com base nas seguintes hipóteses:
+
+
+
+
+
+Consentimento do usuário ao utilizar o aplicativo
+
+
+
+Consentimento explícito ao manter ativa a participação nas estatísticas da comunidade (opt-out disponível a qualquer momento)
+
+
+
+Legítimo interesse para melhorias do aplicativo e análise estatística agregada
+
+
+
+Execução de contrato para processamento de compras e assinaturas
+
+
+
+7. COMPARTILHAMENTO DE DADOS
+
+O desenvolvedor não compartilha, vende nem aluga dados pessoais dos usuários. As únicas informações compartilhadas são aquelas coletadas automaticamente pelos serviços de terceiros mencionados, conforme suas respectivas políticas de privacidade.
+
+O desenvolvedor não tem acesso direto aos dados individuais dos usuários, mas recebe relatórios agregados e anonimizados do Firebase Analytics sobre o uso geral do aplicativo.
+
+Transferência internacional de dados:
+Os serviços de terceiros utilizados (Google, RevenueCat) podem transferir dados para servidores localizados fora do Brasil, seguindo suas próprias políticas de privacidade e proteção de dados.
+
+
+
+8. SEGURANÇA DOS DADOS
+
+
+
+
+
+Os dados da carteira armazenados localmente são de responsabilidade do usuário quanto à segurança física do aparelho.
+
+
+
+As estatísticas anônimas enviadas à nuvem são protegidas pelas medidas de segurança do Firebase/Google e são automaticamente removidas após 30 dias.
+
+Limitação de responsabilidade:
+O desenvolvedor adotou medidas técnicas razoáveis para proteger os dados transmitidos, incluindo criptografia em trânsito (TLS) fornecida pela infraestrutura do Google. No entanto, trata-se de um projeto desenvolvido de forma independente, por uma única pessoa, sem equipe de segurança dedicada ou auditoria profissional de terceiros. Por isso, não é possível garantir proteção absoluta contra falhas, vazamentos ou acessos não autorizados decorrentes de vulnerabilidades em serviços de terceiros ou dispositivos comprometidos.
+
+
+
+9. RETENÇÃO DE DADOS
+
+
+
+
+
+Dados locais: permanecem no dispositivo até que o aplicativo seja desinstalado ou os dados sejam excluídos manualmente pelo usuário.
+
+
+
+Estatísticas anônimas da comunidade: retidas no Firebase Firestore por até 30 dias, removidas automaticamente após esse período.
+
+
+
+Dados de terceiros: retidos conforme as políticas de cada serviço (geralmente entre 2 e 14 meses para dados analíticos).
+
+
+
+10. DIREITOS DO USUÁRIO
+
+O usuário tem o direito de:
+
+
+
+
+
+Desativar o envio de estatísticas anônimas a qualquer momento em Preferências
+
+
+
+Exportar os dados da carteira em formato CSV ou XLSX pelo próprio aplicativo
+
+
+
+Excluir todos os dados locais desinstalando o aplicativo
+
+Para exercer outros direitos previstos em lei (acesso, correção, eliminação de dados), entre em contato pelo canal indicado na página do app na Google Play.
+
+
+
+11. ANÚNCIOS PERSONALIZADOS E OPT-OUT
+
+Você pode desativar anúncios personalizados através das configurações do seu dispositivo ou acessando:
+
+
+
+
+
+Google Ads Settings: https://adssettings.google.com/
+
+
+
+Network Advertising Initiative: https://www.networkadvertising.org/choices/
+
+
+
+Atenção: Desativar anúncios personalizados não impede a exibição de anúncios, mas eles serão menos relevantes.
+
+
+
+12. POLÍTICAS DE PRIVACIDADE DOS SERVIÇOS TERCEIROS
+
+
+
+
+
+Google Services e AdMob: https://policies.google.com/privacy
+
+
+
+Firebase Analytics e Firestore: https://firebase.google.com/support/privacy
+
+
+
+RevenueCat: https://www.revenuecat.com/privacy
+
+
+
+Google Play Store: https://play.google.com/about/privacy-security-deceptive-behavior/
+
+
+
+13. DECLARAÇÃO DO DESENVOLVEDOR
+
+O desenvolvedor VandreApps declara que:
+
+
+
+
+
+Não coleta, armazena nem processa dados pessoais dos usuários em servidores próprios
+
+
+
+Todos os dados da carteira (FIIs, operações, rendimentos, valores) permanecem armazenados exclusivamente no dispositivo do usuário
+
+
+
+As estatísticas anônimas da comunidade são enviadas somente quando a participação está ativa, são agregadas, não identificam o usuário individualmente e são removidas automaticamente após 30 dias
+
+
+
+O conteúdo da carteira inserido pelo usuário nunca é enviado ao Firebase Analytics
+
+
+
+O aplicativo não solicita acesso a câmera, microfone, contatos ou localização, exceto quando explicitamente necessário para funcionalidades específicas e sempre com permissão prévia do usuário
+
+
+
+Ao utilizar o aplicativo Controle de FII, você concorda com esta Política de Privacidade e com o tratamento de dados aqui descrito.
+
+
+
+
+
+en-US (English)
+
+PRIVACY POLICY — Controle de FII
+Last updated: June 13, 2026
+Developer: VandreApps
+
+
+
+ABOUT THE DEVELOPER
+
+VandreApps is an independent developer, operating as an individual, without affiliation to any company or corporate organization. All development, maintenance, and support of the Controle de FII application are performed autonomously and individually.
+
+
+
+1. INTRODUCTION
+
+This Privacy Policy contains information about the collection, use, storage, processing, and protection of user data of the Controle de FII application, developed by VandreApps, with the purpose of demonstrating full transparency and clarifying what types of data are handled and why.
+
+
+
+2. DATA STORAGE
+
+Local storage:
+All data created and managed by the user within the application — REIT portfolio, shares, transactions, dividends, average purchase price, dividend history, and custom settings — are stored exclusively on the user's device and are not sent to the developer's servers.
+
+The developer does not have access to, does not collect, and does not store this data on any proprietary server.
+
+Usage analytics:
+The application records usage events (screens visited, features accessed) through Firebase Analytics for application improvement purposes. No personal content created by the user is sent in this process.
+
+
+
+3. ANONYMOUS STATISTICS (optional feature)
+
+The application may send aggregated, anonymous statistics about portfolio usage to enable application features. Participation is optional: it is enabled by default, can be disabled at any time in Settings → Community Statistics, and data is stored only temporarily — for up to 30 days — being automatically deleted after that period.
+
+When active, only summary information is sent — such as REIT tickers (in limited quantity), number of funds held, approximate sector distribution, and recent buy or sell activity. To count participants without identifying them, the app uses a random identifier generated on the device, with no link to name, email, or account.
+
+Name, email, individual financial values, full portfolio, and detailed transaction history are never sent.
+
+When participation is disabled, the application immediately stops sending statistics and the features that depend on them become unavailable.
+
+
+
+4. INFORMATION COLLECTED BY THIRD PARTIES
+
+The application uses third-party services that may automatically collect information for analysis, advertising, and purchase processing purposes.
+
+4.1. Data collected by third-party services
+
+
+
+
+
+Device identification: model, operating system, application version, and unique identifiers
+
+
+
+Usage information: access frequency, features used, session duration
+
+
+
+Advertising information: number of impressions, clicks, and interactions
+
+
+
+Transaction data: information about in-app purchases
+
+
+
+Navigation events: screens viewed, features accessed, time on each functionality
+
+
+
+Important: The content entered by the user (REIT tickers, amounts, quantities, transactions, dividends) is NOT sent to Firebase Analytics. Only usage and navigation metrics are collected.
+
+4.2. Third-party services used
+
+
+
+
+
+Google AdMob: ad display
+
+
+
+Firebase Analytics: application usage and performance analysis
+
+
+
+Firebase Firestore: storage of anonymous community statistics (only when participation is active)
+
+
+
+RevenueCat: subscription and in-app purchase management (supporter plan)
+
+
+
+Google Play Store: distribution and in-app purchase management
+
+
+
+5. PURPOSE OF DATA USE
+
+Information collected by third-party services is used to:
+
+
+
+
+
+Ad display: improve the relevance of ads shown to users through Google AdMob
+
+
+
+Statistical analysis: understand which features are most used to implement improvements
+
+
+
+User comparisons: compute aggregated averages and rankings displayed in the application (only when participation is active)
+
+
+
+Purchase processing: manage subscriptions and in-app purchases
+
+
+
+Performance improvement: identify and fix technical issues
+
+
+
+6. LEGAL BASIS FOR DATA PROCESSING
+
+Data processing is carried out based on the following legal bases:
+
+
+
+
+
+User consent when using the application
+
+
+
+Explicit consent by keeping community statistics participation active (opt-out available at any time)
+
+
+
+Legitimate interest for application improvements and aggregated statistical analysis
+
+
+
+Contract execution for purchase and subscription processing
+
+
+
+7. DATA SHARING
+
+The developer does not share, sell, or rent users' personal data. The only information shared is that automatically collected by the mentioned third-party services, according to their respective privacy policies.
+
+The developer does not have direct access to individual user data but receives aggregated and anonymized reports from Firebase Analytics about general application usage.
+
+International data transfer:
+The third-party services used (Google, RevenueCat) may transfer data to servers located outside Brazil, following their own privacy and data protection policies.
+
+
+
+8. DATA SECURITY
+
+
+
+
+
+Portfolio data stored locally is the user's responsibility in terms of physical device security.
+
+
+
+Anonymous statistics sent to the cloud are protected by Firebase/Google security measures and are automatically deleted after 30 days.
+
+Limitation of liability:
+The developer has made reasonable technical efforts to protect transmitted data, including in-transit encryption (TLS) provided by Google's infrastructure. However, this is an independently developed project, maintained by a single person, without a dedicated security team or professional third-party security audit. Therefore, absolute protection cannot be guaranteed against failures, leaks, or unauthorized access resulting from vulnerabilities in third-party services or compromised devices.
+
+
+
+9. DATA RETENTION
+
+
+
+
+
+Local data: remains on the device until the application is uninstalled or data is manually deleted by the user.
+
+
+
+Anonymous community statistics: retained in Firebase Firestore for up to 30 days, automatically deleted after that period.
+
+
+
+Third-party data: retained according to each service's policies (generally between 2 and 14 months for analytical data).
+
+
+
+10. USER RIGHTS
+
+The user has the right to:
+
+
+
+
+
+Disable anonymous statistics at any time in Settings
+
+
+
+Export portfolio data in CSV or XLSX format through the application
+
+
+
+Delete all local data by uninstalling the application
+
+To exercise other rights provided by law (access, correction, deletion of data), contact us through the channel indicated on the app's Google Play page.
+
+
+
+11. PERSONALIZED ADVERTISING AND OPT-OUT
+
+You can disable personalized ads through your device settings or by accessing:
+
+
+
+
+
+Google Ads Settings: https://adssettings.google.com/
+
+
+
+Network Advertising Initiative: https://www.networkadvertising.org/choices/
+
+
+
+Note: Disabling personalized ads does not prevent ad display, but they will be less relevant to your interests.
+
+
+
+12. THIRD-PARTY SERVICE PRIVACY POLICIES
+
+
+
+
+
+Google Services and AdMob: https://policies.google.com/privacy
+
+
+
+Firebase Analytics and Firestore: https://firebase.google.com/support/privacy
+
+
+
+RevenueCat: https://www.revenuecat.com/privacy
+
+
+
+Google Play Store: https://play.google.com/about/privacy-security-deceptive-behavior/
+
+
+
+13. DEVELOPER DECLARATION
+
+The developer VandreApps declares that:
+
+
+
+
+
+Does not collect, store, or process users' personal data on proprietary servers
+
+
+
+All portfolio data (REITs, transactions, dividends, values) remains stored exclusively on the user's device
+
+
+
+Anonymous community statistics are sent only when participation is active, are aggregated, do not individually identify the user, and are automatically deleted after 30 days
+
+
+
+The content of the portfolio entered by the user is never sent to Firebase Analytics
+
+
+
+The application does not request access to camera, microphone, contacts, or location, except when explicitly required for specific features and always with prior user permission
+
+
+
+By using the Controle de FII application, you agree to this Privacy Policy and the data processing described herein.
