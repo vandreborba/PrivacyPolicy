@@ -40,9 +40,9 @@ O aplicativo registra eventos de uso (telas visitadas, funcionalidades acessadas
 
 3. ESTATÍSTICAS ANÔNIMAS (recurso opcional)
 
-O aplicativo pode enviar estatísticas agregadas e anônimas sobre o uso da carteira para viabilizar recursos do aplicativo. Essa participação é opcional: vem ativada por padrão, pode ser desativada a qualquer momento em Preferências → Estatísticas da Comunidade, e os dados são armazenados temporariamente — por até 30 dias — sendo removidos automaticamente após esse período.
+O aplicativo pode enviar estatísticas agregadas e anônimas sobre o uso da carteira para viabilizar recursos do aplicativo (comparativos e rankings da comunidade). Essa participação é opcional: vem ativada por padrão, pode ser desativada a qualquer momento em Preferências → Estatísticas da Comunidade, e os dados brutos enviados são armazenados temporariamente — enquanto necessários para agregar estatísticas por mês civil (mês atual e os dois meses anteriores, aproximadamente 62 a 93 dias, conforme o calendário) — sendo removidos automaticamente após esse período. O relatório agregado exibido no aplicativo não identifica participantes individualmente.
 
-Quando ativa, são enviadas apenas informações resumidas — como siglas de FIIs (em quantidade limitada), quantidade de fundos na carteira, distribuição aproximada por setor e movimentações recentes de compra ou venda. Para contar participantes sem identificá-los, o app usa um identificador aleatório gerado no aparelho, sem qualquer vínculo com nome, e-mail ou conta.
+Quando ativa, são enviadas apenas informações resumidas — como siglas de FIIs (em quantidade limitada), quantidade de fundos na carteira, distribuição aproximada por setor e principais movimentações de compra ou venda do mês civil em curso. Para contar participantes sem identificá-los, o app usa um identificador aleatório gerado no aparelho, sem qualquer vínculo com nome, e-mail ou conta, e associa cada envio ao mês de referência correspondente (formato ano-mês).
 
 Não são enviados nome, e-mail, valores financeiros individuais, carteira completa nem histórico detalhado de operações.
 
