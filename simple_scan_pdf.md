@@ -27,21 +27,13 @@ O Simple Scan PDF **não coleta, não armazena e não transmite dados pessoais**
 
 O app não compartilha dados com o desenvolvedor nem com terceiros. Quando **você** escolhe compartilhar um PDF (pela folha de compartilhamento do sistema) ou abrir um documento vindo de outro app, o arquivo é entregue ao aplicativo ou serviço que **você** selecionar (por exemplo, WhatsApp, Google Drive, e-mail). O tratamento desse arquivo passa então a ser regido pela política de privacidade do serviço escolhido por você.
 
-### 5. Dados de crianças
-
-O aplicativo não coleta dados de nenhum usuário, incluindo crianças.
-
-### 6. Segurança
+### 5. Segurança
 
 Como os dados permanecem no seu dispositivo, a segurança deles depende da segurança física e lógica do próprio aparelho (bloqueio de tela, criptografia do dispositivo etc.). O desenvolvedor não mantém cópias dos seus documentos.
 
-### 7. Alterações nesta política
+### 6. Alterações nesta política
 
 Esta política pode ser atualizada para refletir melhorias no app ou exigências legais. A data da "Última atualização" no topo indica a versão vigente.
-
-### 8. Contato
-
-Dúvidas sobre privacidade? Entre em contato: **[INSIRA SEU E-MAIL DE CONTATO]**
 
 Ao utilizar o Simple Scan PDF, você concorda com esta Política de Privacidade.
 
@@ -77,20 +69,12 @@ Simple Scan PDF **does not collect, store, or transmit personal data**. There is
 
 The app does not share data with the developer or any third party. When **you** choose to share a PDF (via the system share sheet) or open a document coming from another app, the file is handed to the app or service **you** select (for example, WhatsApp, Google Drive, email). That file is then governed by the privacy policy of the service you chose.
 
-### 5. Children's data
-
-The application does not collect data from any user, including children.
-
-### 6. Security
+### 5. Security
 
 Since data stays on your device, its security depends on the physical and logical security of the device itself (screen lock, device encryption, etc.). The developer does not keep copies of your documents.
 
-### 7. Changes to this policy
+### 6. Changes to this policy
 
 This policy may be updated to reflect app improvements or legal requirements. The "Last updated" date at the top indicates the current version.
-
-### 8. Contact
-
-Questions about privacy? Contact us: **[INSERT YOUR CONTACT EMAIL]**
 
 By using Simple Scan PDF, you agree to this Privacy Policy.
